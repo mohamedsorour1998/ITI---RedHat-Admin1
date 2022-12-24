@@ -5,7 +5,7 @@ differences between compress and gzip commands are in the compression ratio and 
 2. What is the command used to view the content of a compressed file.
 zcat
 3. Backup /etc directory using tar utility. \
-tar -cvf etc.tar /etc/ 
+tar -cvf etc.tar /etc/                  \
 ![My Remote Image](https://user-images.githubusercontent.com/110028481/209424238-6eedc643-c15a-4765-99f4-7f4ae319922e.png) \
 4. Starting from your home directory, find all files that were modified in the last two day. \
 find ~ -mtime -2 -ls
