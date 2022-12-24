@@ -1,13 +1,13 @@
 LAB5:
 1. Compress a file by compress, gzip, zip commands and decompress it again. State the differences between compress and gzip commands. \
-![My Remote Image](https://user-images.githubusercontent.com/110028481/209424232-a40e4193-2a5b-419c-97e4-ddfd86a6d11b.png)
-differences between compress and gzip commands are in the compression ratio and compression algorithm.\
+![My Remote Image](https://user-images.githubusercontent.com/110028481/209424232-a40e4193-2a5b-419c-97e4-ddfd86a6d11b.png) \
+differences between compress and gzip commands are in the compression ratio and compression algorithm. \
 2. What is the command used to view the content of a compressed file.
 zcat
-3. Backup /etc directory using tar utility.\
+3. Backup /etc directory using tar utility. \
 tar -cvf etc.tar /etc/ \
-![My Remote Image](https://user-images.githubusercontent.com/110028481/209424238-6eedc643-c15a-4765-99f4-7f4ae319922e.png)
-4. Starting from your home directory, find all files that were modified in the last two day.\
+![My Remote Image](https://user-images.githubusercontent.com/110028481/209424238-6eedc643-c15a-4765-99f4-7f4ae319922e.png) \
+4. Starting from your home directory, find all files that were modified in the last two day. \
 find ~ -mtime -2 -ls
 5. Starting from /etc, find files owned by root user.
 Find /etc -user root
