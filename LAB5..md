@@ -1,6 +1,5 @@
 LAB5:
-1. Compress a file by compress, gzip, zip commands and decompress it again. State the
-differences between compress and gzip commands.
+1. Compress a file by compress, gzip, zip commands and decompress it again. State the differences between compress and gzip commands. \
 ![My Remote Image](https://user-images.githubusercontent.com/110028481/209424232-a40e4193-2a5b-419c-97e4-ddfd86a6d11b.png)
 differences between compress and gzip commands are in the compression ratio and compression algorithm.\
 2. What is the command used to view the content of a compressed file.
